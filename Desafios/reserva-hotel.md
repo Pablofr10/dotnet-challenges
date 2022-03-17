@@ -20,6 +20,7 @@ O proprietário de um conjunto de hotéis gostaria de ter um sistema de gestão 
 - **CRUD Pagamento** _Obs: O cliente pode usar mais de uma forma de pagamento_
 
 Obs: _CRUD (Leitura das informações gerais e por ID, Adicionar, Atualizar e deletar)_
+
 _Você é livre para criar o diagrama de classe ou utilizar algum concluído, citando o criador no readme do seu projeto._
 
 ## Atividades extras
