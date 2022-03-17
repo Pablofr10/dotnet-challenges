@@ -2,6 +2,12 @@
 
 O proprietário de um conjunto de hotéis gostaria de ter um sistema de gestão hoteleira construído para os seus hotéis. Os hotéis estão localizados nas principais cidades e áreas de atração turística do Brasil. Em cada hotel são contratados funcionários para desempenharem diversas funções. Em cada hotel, os hóspedes fazem reservas para os quartos de sua escolha e são cobrados de acordo com o tipo de quarto que reservou. Dado o cenário de negócios acima, crie uma aplicação para fazer o gerenciamento de reserva.
 
+## Stacks
+
+**Linguagens:** C#
+**Framework:** .NET
+**Banco de Dados:** livre para escolher
+
 ## Funcionalidades
 
 - **CRUD funcionários.** _Obs: Quando deletar o funcionário apenas preencher a coluna de data_exclusão com a data recente e filtrar funcionários com data_exclusao nula._
