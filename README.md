@@ -20,7 +20,7 @@ Em caso de dúvida, entre no servidor do discord [Pablo Codes](https://discord.g
 
 | Nome  | Stacks | Descrição desafio |
 | ------------- | ------------- | ------------- |
-| Reserva Hotel  | .NET, Banco de Dados, Entity Framework/Dapper  |[Reserva Hotel](https://choosealicense.com/licenses/mit/) |
+| Reserva Hotel  | .NET, Banco de Dados, Entity Framework/Dapper  |[Reserva Hotel](https://github.com/Pablofr10/dotnet-challenges/blob/main/Desafios/reserva-hotel.md) |
 
 
 
