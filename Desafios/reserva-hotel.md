@@ -4,8 +4,10 @@ O proprietário de um conjunto de hotéis gostaria de ter um sistema de gestão 
 
 ## Stacks
 
-**Linguagens:** C#
+**Linguagem:** C#
+
 **Framework:** .NET
+
 **Banco de Dados:** livre para escolher
 
 ## Funcionalidades
