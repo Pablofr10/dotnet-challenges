@@ -4,12 +4,12 @@ O proprietário de um conjunto de hotéis gostaria de ter um sistema de gestão 
 
 ## Funcionalidades
 
-- CRUD funcionários. `Obs: Quando deletar o funcionário apenas preencher a coluna de data_exclusão com a data recente e filtrar funcionários com data_exclusao nula.`
-- CRUD Cliente. `Obs: Quando deletar o cliente apenas preencher a coluna de data_exclusão com a data recente e filtrar funcionários com data_exclusao nula.`
-- CRUD Hotel. `Obs: Não permitir que ao atualizar ele desative o cadastro, criar um endpoint especifico para desativar o hotel.`
-- CRUD Reserva `Obs: A reserva não pode ser deletada e sim mudar para o status de Cancelada, verificar disponilidade antes de criar reserva.`
-- CRUD Quarto
-- CRUD Pagamento `Obs: O cliente pode usar mais de uma forma de pagamento`
+- **CRUD funcionários.** _Obs: Quando deletar o funcionário apenas preencher a coluna de data_exclusão com a data recente e filtrar funcionários com data_exclusao nula._
+- **CRUD Cliente.** _Obs: Quando deletar o cliente apenas preencher a coluna de data_exclusão com a data recente e filtrar funcionários com data_exclusao nula._
+- **CRUD Hotel**. _Obs: Não permitir que ao atualizar ele desative o cadastro, criar um endpoint especifico para desativar o hotel._
+- **CRUD Reserva** _Obs: A reserva não pode ser deletada e sim mudar para o status de Cancelada, verificar disponilidade antes de criar reserva._
+- **CRUD Quarto**
+- **CRUD Pagamento** _Obs: O cliente pode usar mais de uma forma de pagamento_
 
 Obs: _CRUD (Leitura das informações gerais e por ID, Adicionar, Atualizar e deletar)_
 _Você é livre para criar o diagrama de classe ou utilizar algum concluído, citando o criador no readme do seu projeto._
