@@ -31,4 +31,4 @@ _Você é livre para criar o diagrama de classe ou utilizar algum concluído, ci
 
 ## Concluídos
 
-- [Guilherme TJ](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Guilherme TJ](https://github.com/guilhermetj/Hotel_Management)
